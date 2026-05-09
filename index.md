@@ -1,6 +1,6 @@
 # This is my portfolio
 
-[UX479-Prototype(/UX479-Prototype)]
+[UX479-Prototype(/Prototype)]
 [My Cars Page](/CarSales)
 [My Computer Page](/ComputerSales)
 
